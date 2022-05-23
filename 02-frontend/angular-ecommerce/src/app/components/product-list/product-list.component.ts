@@ -13,7 +13,7 @@ export class ProductListComponent implements OnInit {
 
   products: Product[] = [];
   currentCategoryId: number | undefined;
-
+  
 
   constructor(private productService: ProductService,
               private route: ActivatedRoute) { }
