@@ -6,7 +6,7 @@ Link:https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/
 
 ## How to run the app
 1. Downlad the app and open the folder in the cli.
-2. Restore database file on create-products.sql.
+2. Restore database file using create-products.sql.
 3. cd 01-backend/spring-boot-ecommerce.
 4. Install maven dependencies using IDE auto import or using the command mvn install.
 5. Run the app using `mvn spring-boot:start` from project root directory.
@@ -22,6 +22,10 @@ Your frontend app should now be running on localhost:4200. Your backend app shou
 Developing searching products by keyword and pagination
 
 ## Used Tools and Technologies
-
+ - Spring Boot
+ - Angular
+ - Bootstrap
+ - FontAwesome
+ - 
 
 
