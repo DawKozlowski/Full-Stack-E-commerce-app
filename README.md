@@ -19,13 +19,16 @@ Your frontend app should now be running on localhost:4200. Your backend app shou
 ## Functionalities
 1. Users can view all items when entering the website
 2. Items are displayed properly based on the selected category
-Developing searching products by keyword and pagination
+
+**Developing:** searching products by keyword and pagination
 
 ## Used Tools and Technologies
  - Spring Boot
  - Angular
  - Bootstrap
  - FontAwesome
- - 
-
+ - REST API
+ - JPA Repository
+ - Spring Data REST
+ - MySQL
 
