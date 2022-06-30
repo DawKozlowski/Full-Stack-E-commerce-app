@@ -6,13 +6,12 @@ Link:https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/
 
 ## How to run the app
 1. Downlad the app and open the folder in the cli.
-2. Restore database using create-products.sql.
-3. cd 01-backend/spring-boot-ecommerce.
-4. Install maven dependencies using IDE auto import or using the command mvn install.
-5. Run the app using `mvn spring-boot:start` from project root directory.
-6. cd 02-frontend/angular-ecommerce
-7. run `npm install` command
-8. run `ng serve` command
+2. cd 01-backend/spring-boot-ecommerce.
+3. Install maven dependencies using IDE auto import or using the command mvn install.
+4. Run the app using `mvn spring-boot:start` from project root directory.
+5. cd 02-frontend/angular-ecommerce
+6. run `npm install` command
+7. run `ng serve` command
 
 Your frontend app should now be running on localhost:4200. Your backend app should now be running on localhost:8080.
 
