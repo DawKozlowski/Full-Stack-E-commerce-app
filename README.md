@@ -8,7 +8,7 @@ Link:https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/
 1. Downlad the app and open the folder in the cli.
 2. Set up database
 3. cd 01-backend/spring-boot-ecommerce.
-4. Install maven dependencies using IDE auto import or using the command mvn install.
+4. Install maven dependencies using IDE auto import or using the command `mvn install`.
 5. Run the app using `mvn spring-boot:start` from project root directory.
 6. cd 02-frontend/angular-ecommerce
 7. run `npm install` command
